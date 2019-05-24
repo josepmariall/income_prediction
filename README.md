@@ -9,15 +9,15 @@ The following jupyter notebooks are provided:
 
 [1. Data Preparation](https://github.com/titoniubo/income_prediction/blob/master/1.Data%20Preparation.ipynb)
 
-[2. Model Creation and Algorithm testing](https://github.com/titoniubo/credit_scoring/blob/master/2.Model%20Creation%20and%20Algorithm%20testing.ipynb)
+[2. Model Creation and Algorithm testing](https://github.com/titoniubo/income_prediction/blob/master/2.Model%20Creation%20and%20Algorithm%20testing.ipynb)
 
 
 ### Code of ethics
 
-This project has been undertaken complying with a code of [ethics](https://github.com/titoniubo/credit_scoring/blob/master/Code%20of%20ethics.txt) 
+This project has been undertaken complying with a code of [ethics](https://github.com/titoniubo/income_prediction/blob/master/License.txt) 
 
 ### Install
-I provide the [environment](https://github.com/titoniubo/text_classification/blob/master/textpro.yml) used to run this code.
+I provide the [environment](https://github.com/titoniubo/income_prediction/blob/master/machine-learning.yml) used to run this code.
 
 ### License
 This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/titoniubo/credit_scoring/blob/master/License.txt) file
