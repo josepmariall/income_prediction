@@ -1,8 +1,6 @@
 # Income prediction
 
-This projects uses banking data to predict credit scoring, in other words, wether a person can be graned a new credit or not. 
-
-According to [investopedia](https://www.investopedia.com/terms/c/credit_scoring.asp), Credit scoring is a statistical analysis performed by lenders and financial institutions to access a person's creditworthiness. Lenders use credit scoring, among other things, to decide on whether to extend or deny credit.
+This projects uses [UCI Machine Learning Repositor Adult dataset](https://archive.ics.uci.edu/ml/datasets/adult), which is an extraction of 1994 census (US). The goal is to predict wheteher an individual income is above or below 50K per year. 
 
 ## Table of Contents 
 The following jupyter notebooks are provided:
