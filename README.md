@@ -12,7 +12,7 @@ The following jupyter notebooks are provided:
 
 ### Code of ethics
 
-This project has been undertaken complying with a code of [ethics](https://github.com/titoniubo/income_prediction/blob/master/License.txt) 
+This project has been undertaken complying with a code of [ethics](https://github.com/titoniubo/income_prediction/blob/master/Code%20of%20ethics.txt) 
 
 ### Install
 I provide the [environment](https://github.com/titoniubo/income_prediction/blob/master/machine-learning.yml) used to run this code.
