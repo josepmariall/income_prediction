@@ -5,7 +5,7 @@ This projects uses [UCI Machine Learning Repositor Adult dataset](https://archiv
 ## Table of Contents 
 The following jupyter notebooks are provided:
 
-[1. Data Preparation](https://github.com/titoniubo/income_prediction/blob/master/1.Data%20Preparation.ipynb
+[1. Data Preparation](https://github.com/titoniubo/income_prediction/blob/master/1.Data%20Preparation.ipynb)
 
 [2. Model Creation and Algorithm Selection](https://github.com/titoniubo/income_prediction/blob/master/2.Model%20Creation%20and%20Algorithm%20Selection.ipynb)
 
