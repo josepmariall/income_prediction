@@ -9,8 +9,8 @@ The following jupyter notebooks are provided:
 
 [2. Model Creation and Algorithm Selection](https://github.com/titoniubo/income_prediction/blob/master/2.Model%20Creation%20and%20Algorithm%20Selection.ipynb)
 
-[3. Features Selection, Algorithm improvement, Evidence] 
-(3. Feature Selection, Algorithm improvement, Generalisation evidence.ipynb)
+[2. Feature Selection, Algorithm improvement, Evidence](https://github.com/titoniubo/income_prediction/blob/master/3.%20Feature%20Selection%2C%20Algorithm%20improvement%2C%20Generalisation%20evidence.ipynb)
+
 
 
 ### Code of ethics
