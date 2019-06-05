@@ -21,3 +21,4 @@ I provide the [environment](https://github.com/titoniubo/income_prediction/blob/
 
 ### License
 This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/titoniubo/income_prediction/blob/master/License.txt) file
+ 
